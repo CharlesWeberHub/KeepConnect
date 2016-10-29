@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeepConnect</string>
+    <string name="launch_service_btn">启动服务</string>
+
+</resources>
